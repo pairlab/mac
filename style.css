@@ -1,0 +1,22 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 280;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+a:link,
+a:visited {
+    color: #175e94;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #2c8696;
+}
