@@ -1,7 +1,8 @@
 # Modular Action Concept Grounding in Semantic Video Prediction (CVPR 2022)
 
-The official PyTorch implementation of MAC (CVPR 2022).
-Project page: http://www.pair.toronto.edu/mac/
+The official PyTorch implementation of MAC (CVPR 2022).  
+Project page: http://www.pair.toronto.edu/mac/. 
+Paper: https://arxiv.org/abs/2011.11201  
 
 For any questions regarding the codebase, please send a message at: mail.utoronto.ca
 
